@@ -21,7 +21,7 @@ export async function getStaticProps() {
   return {
     props: {
       content: {
-        title: "Look at my note app tho",
+        title: "This is my main page",
       },
     },
   };
